@@ -7,3 +7,6 @@ npm-debug.log
 
 # Environment variables
 .env
+
+#VSCode config
+.vscode
