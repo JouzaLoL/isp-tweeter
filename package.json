@@ -1,0 +1,14 @@
+{
+  "name": "isp-tweeter",
+  "version": "1.0.0",
+  "description": "Tweets your ISP when your connection speeds are lower than what you pay for.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josef Vacek",
+  "license": "ISC",
+  "dependencies": {
+    "speedtest-net": "^1.3.1"
+  }
+}
